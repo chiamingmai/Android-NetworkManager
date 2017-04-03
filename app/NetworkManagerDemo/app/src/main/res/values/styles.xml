@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat"></style>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="toolbarStyle">@color/textColorPrimary</item>
+
+    </style>
+
+    <style name="TabTextStyle.Base" parent="@android:style/TextAppearance.Widget.TabWidget"></style>
+
+    <style name="TabTextStyle" parent="TabTextStyle.Base"></style>
+</resources>

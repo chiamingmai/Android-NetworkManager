@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetworkManagerDemo</string>
+    <string name="tab_cellularnetwork_config">Cellular Network</string>
+    <string name="tab_wifinetwork_config">Wi Fi Network</string>
+    <string name="tab_wifihotspot_config">Wi Fi Hotspot</string>
+    <string name="text_currentstatus">Current Status</string>
+    <string name="text_on">On</string>
+    <string name="text_off">Off</string>
+
+</resources>
