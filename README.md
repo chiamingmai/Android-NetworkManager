@@ -15,10 +15,9 @@ Functions contain:
 - Calculate approximate distance between the device and Wi Fi Hotspot.
 - Etc.
 
-**How to use: You can import the networkmanager module into your project** 
+**How to use: You can import the networkmanager module into your project**
+### NOTE: Some functions may not work in the higher Android versions.
 ***
-
-#### NOTE: Some functions may not work in the higher Android versions.
 
 ## Screenshots
 
